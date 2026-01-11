@@ -1,4 +1,4 @@
-echo "# Brain Tumor Classification
+# Brain Tumor Classification
 
 ## Project Overview
 This project utilizes Deep Learning and Transfer Learning (VGG16) to classify MRI scans as either containing a brain tumor or not.
