@@ -1,0 +1,5 @@
+echo "tensorflow
+opencv-python
+imutils
+scikit-learn
+matplotlib" > requirements.txt
